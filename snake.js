@@ -20,7 +20,7 @@ let intervalTime = 1000
 // localStorage.setItem("highestScore",JSON.stringify(highestScore))
 
 
-for(let i = 1;i <= 100; i++){
+for(let i = 0;i <= 99; i++){
     let div = document.createElement("div");
     div.classList.add("div")
     gamebox.append(div)
