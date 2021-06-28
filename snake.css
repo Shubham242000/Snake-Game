@@ -2,6 +2,10 @@ body{
     background-image: url(base.jpg);
     background-size: cover;
     color: white;
+    font-family: 'Akaya Kanadaka', cursive;
+
+    font-size: larger;
+  
 }
 
 h1{
@@ -26,7 +30,7 @@ h1{
     background-color: rgba(18, 2, 47, 0.3);
 }
 ul li{
-    margin: 10px 0;
+    margin: 20px 0;
     font-size: 17px;
 }
 #instructions ul{
