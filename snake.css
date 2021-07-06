@@ -41,7 +41,7 @@ ul li{
 #points{
     width: 350px;
     max-height: 500px;
-    overflow: scroll;
+    overflow: auto;
     /* position: absolute; */
     color: white;
     right : 20px;
